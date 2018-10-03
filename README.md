@@ -8,3 +8,5 @@ TODO LIST
 3. Javascript
 4. JQUERY
 4. Angular.js
+
+The collection is managed across multiple environments and locations.
